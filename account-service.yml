@@ -6,7 +6,7 @@ greeting: "stage server"
 ---
 spring:
   profiles: dev
-greeting: "dev server test"
+greeting: "dev server test !!"
 ---
 spring:
   profiles: local
