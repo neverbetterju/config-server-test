@@ -1,14 +1,17 @@
-greeting: "hello"
+devtest:
+  greeting: "hello"
 ---
 spring:
   profiles: stage
-greeting: "stage server"
+devtest: 
+  greeting: "stage server"
 ---
 spring:
   profiles: dev
-greeting: "dev server mmmmmm"
+devtest: 
+  greeting: "dev server mmmmmm"
 ---
 spring:
   profiles: local
-greeting: "local server"
-
+devtest: 
+  greeting: "local server"
