@@ -11,4 +11,4 @@ greeting: "dev server"
 spring:
   profiles: local
 greeting: "local server"
----
+
