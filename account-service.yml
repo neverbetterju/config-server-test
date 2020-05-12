@@ -9,7 +9,7 @@ devtest:
 spring:
   profiles: dev
 devtest: 
-  greeting: "dev server hello world aa"
+  greeting: "dev server hohoho"
 ---
 spring:
   profiles: local
